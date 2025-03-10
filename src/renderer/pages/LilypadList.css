@@ -1,0 +1,25 @@
+/* .module-list-container {
+    margin: 0 auto;
+    height:100vh;
+    overflow:auto;
+    width: 100%;
+  }
+
+  .page-title {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 100px;
+  }
+
+  .module-items-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .module-item {
+    flex: 0 0 400px;
+    margin: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  } */
